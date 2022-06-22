@@ -388,11 +388,14 @@ body::-webkit-scrollbar-thumb {
 .icon-twitter{
     background-color: #339DC5;
 }
-.icon-youtube{
-    background-color: #E83028;
+.icon-telegram{
+    background-color: #8B0000;
 }
 .icon-instagram{
-    background-color: #3F60A5;
+    background-color: #9400D3;
+}
+.icon-whatsapp{
+    background-color: #008000;
 }
 .icon:first-child{
     border-radius: 1rem 0 0 0;
