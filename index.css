@@ -95,7 +95,13 @@ header a:hover{
     background-size: cover;
     background-position: center center;
 }
+#hero h1{
+    color: white;
+}
 
+#hero button{
+    font-size: 1.75em;
+}
 #hero1{
     display: flex;
     align-items: center;
@@ -114,11 +120,11 @@ header a:hover{
     background-position: center center;
 }
 
-#hero h1{
+#hero1 h1{
     color: white;
 }
 
-#hero button{
+#hero1 button{
     font-size: 1.75em;
 }
 
