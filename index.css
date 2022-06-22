@@ -276,7 +276,7 @@ footer .contenedor{
     }
 
     #somos-meta .img-contenedor{
-        background-image: url("https://th.bing.com/th/id/R.7bc1402080551829fd850acfa212559b?rik=u9wsJesEYKZH1g&riu=http%3a%2f%2fwww.amatic.com.ec%2fwp-content%2fuploads%2f2017%2f04%2fmantenimiento-laptop.jpg&ehk=JTSruSVjfx%2bSbCNfrTUJIVxrBI8HfcZIG6ZE0hEjBXY%3d&risl=&pid=ImgRaw&r=0");/*que es supportmeta*/
+        background-image: url("dul.jfif");/*que es supportmeta*/
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -340,7 +340,7 @@ footer .contenedor{
     }
 
     #caracteristicas{
-        background-image: url("https://fundacioncarlosslim.org/wp-content/uploads/2018/06/curso-academica-mantenimiento-de-equipo-de-computo-basico-2018-2.jpg");
+        background-image: url("fiesta.jfif");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
@@ -363,7 +363,7 @@ footer .contenedor{
     }
 
     footer .contenedor{
-        background-image: url(https://www.bbva.com/wp-content/uploads/2018/02/redes-mundo-digital-conexiones-internet-datos-BBVA-1024x431.jpg?theia_smart_thumbnails_file_version=2);
+        background: black;
         /*justify-content: flex-end;*/
     }
 }
